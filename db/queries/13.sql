@@ -1,0 +1,1 @@
+DELETE FROM NOTIFICARE WHERE Status = 'Eșuat' AND Data_Trimiterii < '2026-01-01';

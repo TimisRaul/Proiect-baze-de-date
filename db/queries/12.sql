@@ -1,0 +1,1 @@
+UPDATE AGENT SET Procent_Comision = 12.50 WHERE ID_Agent = 1;
